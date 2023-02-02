@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ListaOfferteMercatoLibero xmlns="http://www.acquirenteunico.it/schemas/SII_AU/OffertaRetail/01">
+    <offerta>
+        <IdentificativiOfferta>
+            <PIVA_UTENTE>06289781004</PIVA_UTENTE>
+            <COD_OFFERTA>001714DSFFL24XXE3L12000240000000</COD_OFFERTA>
+        </IdentificativiOfferta>
+        <DettaglioOfferta>
+            <TIPO_MERCATO>03</TIPO_MERCATO>
+            <TIPO_CLIENTE>01</TIPO_CLIENTE>
+            <DOMESTICO_RESIDENTE>03</DOMESTICO_RESIDENTE>
+            <TIPO_OFFERTA>01</TIPO_OFFERTA>
+            <TIPOLOGIA_ATT_CONTR>01</TIPOLOGIA_ATT_CONTR>
+            <NOME_OFFERTA>Energia 3.0 Light</NOME_OFFERTA>
+            <DESCRIZIONE>Il prezzo più conveniente di ENGIE solo per i clienti web</DESCRIZIONE>
+            <DURATA>-1</DURATA>
+            <GARANZIE>Domiciliazione obbligatoria</GARANZIE>
+            <ModalitaAttivazione>
+                <MODALITA>02</MODALITA>
+            </ModalitaAttivazione>
+            <Contatti>
+                <TELEFONO>800901199</TELEFONO>
+                <URL_SITO_VENDITORE>https://casa.engie.it</URL_SITO_VENDITORE>
+                <URL_OFFERTA>https://casa.engie.it</URL_OFFERTA>
+            </Contatti>
+        </DettaglioOfferta>
+        <ValiditaOfferta>
+            <DATA_INIZIO>20/10/2022_16:00:00</DATA_INIZIO>
+            <DATA_FINE>03/11/2022_00:00:00</DATA_FINE>
+        </ValiditaOfferta>
+        <OffertaDual>
+            <OFFERTE_CONGIUNTE_EE>001714ESFFL24XXE3L12000240000000</OFFERTE_CONGIUNTE_EE>
+            <OFFERTE_CONGIUNTE_GAS>001714GSFML24XXE3L12000240000000</OFFERTE_CONGIUNTE_GAS>
+        </OffertaDual>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>01</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <CondizioniContrattuali>
+            <TIPOLOGIA_CONDIZIONE>04</TIPOLOGIA_CONDIZIONE>
+            <DESCRIZIONE>Offerta Pluriennale</DESCRIZIONE>
+            <LIMITANTE>02</LIMITANTE>
+        </CondizioniContrattuali>
+    </offerta>
+    <offerta>
+        <IdentificativiOfferta>
+            <PIVA_UTENTE>06289781004</PIVA_UTENTE>
+            <COD_OFFERTA>001714DSFML24XXE3M12000240000000</COD_OFFERTA>
+        </IdentificativiOfferta>
+        <DettaglioOfferta>
+            <TIPO_MERCATO>03</TIPO_MERCATO>
+            <TIPO_CLIENTE>01</TIPO_CLIENTE>
+            <DOMESTICO_RESIDENTE>03</DOMESTICO_RESIDENTE>
+            <TIPO_OFFERTA>01</TIPO_OFFERTA>
+            <TIPOLOGIA_ATT_CONTR>01</TIPOLOGIA_ATT_CONTR>
+            <NOME_OFFERTA>Energia 3.0 Light MONO</NOME_OFFERTA>
+            <DESCRIZIONE>Il prezzo più conveniente di ENGIE solo per i clienti web</DESCRIZIONE>
+            <DURATA>-1</DURATA>
+            <GARANZIE>Domiciliazione obbligatoria</GARANZIE>
+            <ModalitaAttivazione>
+                <MODALITA>02</MODALITA>
+            </ModalitaAttivazione>
+            <Contatti>
+                <TELEFONO>800901199</TELEFONO>
+                <URL_SITO_VENDITORE>https://casa.engie.it</URL_SITO_VENDITORE>
+                <URL_OFFERTA>https://casa.engie.it</URL_OFFERTA>
+            </Contatti>
+        </DettaglioOfferta>
+        <ValiditaOfferta>
+            <DATA_INIZIO>20/10/2022_16:00:00</DATA_INIZIO>
+            <DATA_FINE>03/11/2022_00:00:00</DATA_FINE>
+        </ValiditaOfferta>
+        <OffertaDual>
+            <OFFERTE_CONGIUNTE_EE>001714ESFML24XXE3M12000240000000</OFFERTE_CONGIUNTE_EE>
+            <OFFERTE_CONGIUNTE_GAS>001714GSFML24XXE3M12000240000000</OFFERTE_CONGIUNTE_GAS>
+        </OffertaDual>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>01</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <CondizioniContrattuali>
+            <TIPOLOGIA_CONDIZIONE>04</TIPOLOGIA_CONDIZIONE>
+            <DESCRIZIONE>Offerta Pluriennale</DESCRIZIONE>
+            <LIMITANTE>02</LIMITANTE>
+        </CondizioniContrattuali>
+    </offerta>
+    <offerta>
+        <IdentificativiOfferta>
+            <PIVA_UTENTE>03053750166</PIVA_UTENTE>
+            <COD_OFFERTA>PWDZEROC</COD_OFFERTA>
+        </IdentificativiOfferta>
+        <DettaglioOfferta>
+            <TIPO_MERCATO>03</TIPO_MERCATO>
+            <OFFERTA_SINGOLA>NO</OFFERTA_SINGOLA>
+            <TIPO_CLIENTE>01</TIPO_CLIENTE>
+            <DOMESTICO_RESIDENTE>01</DOMESTICO_RESIDENTE>
+            <TIPO_OFFERTA>02</TIPO_OFFERTA>
+            <TIPOLOGIA_ATT_CONTR>99</TIPOLOGIA_ATT_CONTR>
+            <NOME_OFFERTA>DUAL POWER ZERO CONSUMER</NOME_OFFERTA>
+            <DESCRIZIONE>GAS - L’offerta valida per tutta la durata contrattuale, applica il prezzo del gas secondo le condizioni economiche regolate del servizio di tutela dell’ARERA, applicato ai quantitativi di gas prelevati dal cliente. LUCE - L’offerta valida per tutta la durata contrattuale, applica il prezzo dell’energia  secondo le condizioni economiche regolate del servizio di maggior tutela dell’ARERA, applicato ai quantitativi di energia elettrica prelevata dal cliente ed è soggetta a variazioni trimestrali. Il prezzo è riferito alla componente energia PE suddivisa per fascia F1,F2F3.</DESCRIZIONE>
+            <DURATA>-1</DURATA>
+            <GARANZIE>Deposito cauzionale: non applicato</GARANZIE>
+            <ModalitaAttivazione>
+                <MODALITA>03</MODALITA>
+                <MODALITA>99</MODALITA>
+                <DESCRIZIONE>Agenti commerciali</DESCRIZIONE>
+            </ModalitaAttivazione>
+            <Contatti>
+                <TELEFONO>800642660</TELEFONO>
+                <URL_SITO_VENDITORE>https://www.powergas.it/</URL_SITO_VENDITORE>
+                <URL_OFFERTA>https://www.powergas.it/offerte/dual-zero-consumer/</URL_OFFERTA>
+            </Contatti>
+        </DettaglioOfferta>
+        <RiferimentiPrezzoEnergia>
+            <IDX_PREZZO_ENERGIA>02</IDX_PREZZO_ENERGIA>
+        </RiferimentiPrezzoEnergia>
+        <ValiditaOfferta>
+            <DATA_INIZIO>18/09/2019_00:00:00</DATA_INIZIO>
+            <DATA_FINE>31/12/2099_23:59:59</DATA_FINE>
+        </ValiditaOfferta>
+        <CaratteristicheOfferta>
+            <CONSUMO_MIN>0</CONSUMO_MIN>
+            <CONSUMO_MAX>0</CONSUMO_MAX>
+        </CaratteristicheOfferta>
+        <OffertaDual>
+            <OFFERTE_CONGIUNTE_EE>PZLC</OFFERTE_CONGIUNTE_EE>
+            <OFFERTE_CONGIUNTE_GAS>PZGC</OFFERTE_CONGIUNTE_GAS>
+        </OffertaDual>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>01</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>02</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>04</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>99</MODALITA_PAGAMENTO>
+            <DESCRIZIONE>BONIFICO BANCARIO/POSTALE</DESCRIZIONE>
+        </MetodoPagamento>
+        <TipoPrezzo>
+            <TIPOLOGIA_FASCE>91</TIPOLOGIA_FASCE>
+        </TipoPrezzo>
+        <Dispacciamento>
+            <TIPO_DISPACCIAMENTO>99</TIPO_DISPACCIAMENTO>
+            <VALORE_DISP>0.01382</VALORE_DISP>
+            <NOME>PD</NOME>
+        </Dispacciamento>
+        <CondizioniContrattuali>
+            <TIPOLOGIA_CONDIZIONE>99</TIPOLOGIA_CONDIZIONE>
+            <ALTRO>Servizi accessori</ALTRO>
+            <DESCRIZIONE>Spesa cambio offerta: per il cambio di tipologia di offerta è previsto un costo Una Tantum di €20.00+IVA</DESCRIZIONE>
+            <LIMITANTE>01</LIMITANTE>
+        </CondizioniContrattuali>
+        <Sconto>
+            <NOME>Spesa gestione pratica</NOME>
+            <DESCRIZIONE>Sconto sulla spesa gestione pratica amministrativa</DESCRIZIONE>
+            <VALIDITA>01</VALIDITA>
+            <TIPO_SCONTO>01</TIPO_SCONTO>
+            <IVA_SCONTO>01</IVA_SCONTO>
+            <Condizione>
+                <CONDIZIONE_APPLICAZIONE>99</CONDIZIONE_APPLICAZIONE>
+                <DESCRIZIONE_CONDIZIONE>Si applica se il cliente sceglie l'addebito in conto SEPA/RID</DESCRIZIONE_CONDIZIONE>
+            </Condizione>
+            <PrezziSconto>
+                <TIPOLOGIA>01</TIPOLOGIA>
+                <VALIDO_DA>0</VALIDO_DA>
+                <VALIDO_FINO>999999999</VALIDO_FINO>
+                <UNITA_MISURA>06</UNITA_MISURA>
+                <PREZZO>100</PREZZO>
+            </PrezziSconto>
+        </Sconto>
+    </offerta>
+    <offerta>
+        <IdentificativiOfferta>
+            <PIVA_UTENTE>13149000153</PIVA_UTENTE>
+            <COD_OFFERTA>000652DSVFL02XX_VVWEBMARDF281022</COD_OFFERTA>
+        </IdentificativiOfferta>
+        <DettaglioOfferta>
+            <TIPO_MERCATO>03</TIPO_MERCATO>
+            <OFFERTA_SINGOLA>NO</OFFERTA_SINGOLA>
+            <TIPO_CLIENTE>01</TIPO_CLIENTE>
+            <DOMESTICO_RESIDENTE>03</DOMESTICO_RESIDENTE>
+            <TIPO_OFFERTA>02</TIPO_OFFERTA>
+            <TIPOLOGIA_ATT_CONTR>02</TIPOLOGIA_ATT_CONTR>
+            <NOME_OFFERTA>VIVIweb Market Lucegas</NOME_OFFERTA>
+            <DESCRIZIONE>L'offerta "VIVIweb Market Lucegas", destinata ai clienti finali domestici, garantisce un prezzo della materia prima differenziato a PSV Day-Ahead per il gas e il PUN su tre fasce per la luce, aggiornato mensilmente secondo il mercato. Ed in più rispetti l'ambiente grazie all'energia verde 100% da fonti rinnovabili.</DESCRIZIONE>
+            <DURATA>12</DURATA>
+            <GARANZIE>L'offerta non prevede deposito cauzionale in caso di cambio fornitore.</GARANZIE>
+            <ModalitaAttivazione>
+                <MODALITA>01</MODALITA>
+                <DESCRIZIONE>Offerta attivabile da web.</DESCRIZIONE>
+            </ModalitaAttivazione>
+            <Contatti>
+                <TELEFONO>800151313</TELEFONO>
+                <URL_SITO_VENDITORE>https://www.vivienergia.it/</URL_SITO_VENDITORE>
+                <URL_OFFERTA>https://www.vivienergia.it</URL_OFFERTA>
+            </Contatti>
+        </DettaglioOfferta>
+        <RiferimentiPrezzoEnergia>
+            <IDX_PREZZO_ENERGIA>14</IDX_PREZZO_ENERGIA>
+        </RiferimentiPrezzoEnergia>
+        <ValiditaOfferta>
+            <DATA_INIZIO>28/10/2022_17:00:00</DATA_INIZIO>
+            <DATA_FINE>10/11/2022_23:59:59</DATA_FINE>
+        </ValiditaOfferta>
+        <OffertaDual>
+            <OFFERTE_CONGIUNTE_EE>000652ESVFL02XX_VVWEBMARDF281022</OFFERTE_CONGIUNTE_EE>
+            <OFFERTE_CONGIUNTE_GAS>000652GSVML02XX_VVWEBMARDF281022</OFFERTE_CONGIUNTE_GAS>
+        </OffertaDual>
+        <MetodoPagamento>
+            <MODALITA_PAGAMENTO>01</MODALITA_PAGAMENTO>
+        </MetodoPagamento>
+        <CondizioniContrattuali>
+            <TIPOLOGIA_CONDIZIONE>01</TIPOLOGIA_CONDIZIONE>
+            <DESCRIZIONE>Valido solo per switch.</DESCRIZIONE>
+            <LIMITANTE>02</LIMITANTE>
+        </CondizioniContrattuali>
+        <ZoneOfferta>
+            <REGIONE>08</REGIONE>
+            <REGIONE>06</REGIONE>
+            <REGIONE>12</REGIONE>
+            <REGIONE>07</REGIONE>
+            <REGIONE>03</REGIONE>
+            <REGIONE>11</REGIONE>
+            <REGIONE>01</REGIONE>
+            <REGIONE>09</REGIONE>
+            <REGIONE>04</REGIONE>
+            <REGIONE>10</REGIONE>
+            <REGIONE>02</REGIONE>
+            <REGIONE>05</REGIONE>
+            <REGIONE>16</REGIONE>
+        </ZoneOfferta>
+    </offerta>
+</ListaOfferteMercatoLibero>
